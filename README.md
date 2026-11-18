@@ -1,11 +1,3 @@
-## 组内直招
-
-阿里巴巴 AliExpress 营销团队：https://aidc-jobs.alibaba.com/off-campus/position-detail?lang=zh&positionId=1040520
-
-联系邮箱：xizan.zhy@alibaba-inc.com
-
-
-
 
 
 ## 仓库介绍
